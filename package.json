@@ -1,0 +1,25 @@
+{
+  "name": "express-origin",
+  "version": "0.0.1",
+  "description": "express module that adds origin to req",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burawi/express-origin.git"
+  },
+  "keywords": [
+    "express",
+    "origin",
+    "req",
+    "url"
+  ],
+  "author": "Abu Rawi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burawi/express-origin/issues"
+  },
+  "homepage": "https://github.com/burawi/express-origin#readme"
+}

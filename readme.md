@@ -1,3 +1,9 @@
+# Useless
+
+This package is useless, you can do what it does simply by adding `/` before file path. **_Watch this video to see an example:_**
+
+[Access files in root from children route](https://www.youtube.com/watch?v=FY_sisNvbEQ)
+
 # Install
 ```
 npm i express-origin --save

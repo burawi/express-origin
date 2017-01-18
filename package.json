@@ -1,6 +1,6 @@
 {
   "name": "express-origin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "express module that adds origin to req",
   "main": "index.js",
   "scripts": {
